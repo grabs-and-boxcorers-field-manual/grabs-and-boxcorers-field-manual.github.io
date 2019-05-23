@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Statistical Considerations for Monitoring and Sampling"
+title: "Grabs and Box Corers"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
@@ -10,9 +10,9 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Rachel Przeslawski
+[Rachel Przeslawski](mailto:rachel.przeslawski@ga.gov.au), Penny Berents, Malcolm Clark, Graham Edgar, Chris Frid, Lauren Hughes, Tim Ingleton, David Kennedy, Scott Nichol, Jodie Smith
 
-![image alt text](images/Surveydesign.jpg)
+![image alt text](images/grabs-and-boxcorers.jpg)
 
 Chapter citation:
-Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, Przeslawski R. 2018. Statistical considerations for monitoring and sampling. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp 23-41. 
+Przeslawski R, Berents P, Clark M, Edgar G, Frid C, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2018. Marine sampling field manual for grabs and box corers. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 172-195.
