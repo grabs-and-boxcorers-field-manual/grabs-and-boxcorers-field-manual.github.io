@@ -2,9 +2,9 @@
 layout: home
 permalink: /
 title: "Grabs and Box Corers"
-excerpt: ""
+excerpt: "<br>"
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/scope_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP

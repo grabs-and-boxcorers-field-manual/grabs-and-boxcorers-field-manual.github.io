@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: /post-survey-procedures
-title: "Post-Survey Procedures"
+permalink: /acknowledgements
+title: "Acknowledgements"
 excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg

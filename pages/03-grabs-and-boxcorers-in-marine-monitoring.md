@@ -1,9 +1,9 @@
 ---
 permalink: /grabs-and-boxcorers-in-marine-monitoring
 title: "Grabs and Box Corers in Marine Monitoring"
-excerpt: ""
+excerpt: "<br>"
 image:
-  feature: /banners/03_banner.jpg
+  feature: /banners/scope_banner.jpg
 layout: home
 
 ---
