@@ -2,8 +2,8 @@
 layout: home
 permalink: /platform-description
 title: "Platform Description"
-excerpt: ""
+excerpt: "<br>"
 image:
-  feature: /banners/01_banner.jpg
+  feature: /banners/scope_banner.jpg
 toc: true
 ---
