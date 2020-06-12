@@ -16,3 +16,27 @@ page.button1.external_url:
 
 Chapter citation:
 Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2020. Marine sampling field manual for grabs and box corers. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. </em>Przeslawski R, Foster S (Eds).<em> </em>National Environmental Science Programme (NESP).
+
+| Chapter Contents                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------|
+|  **[Platform Description](https://grabs-and-boxcorers-field-manual.github.io/platform-description)**                                                      |
+|  **[Scope](https://grabs-and-boxcorers-field-manual.github.io/scope)**    |
+|  **[Grabs and Box corers in Marine Monitoring](https://grabs-and-boxcorers-field-manual.github.io/grabs-and-boxcorers-in-marine-monitoring)**                                            |
+|  **[Equipment](https://grabs-and-boxcorers-field-manual.github.io/equipment)**      |
+|  **[Pre-Survey Preparations](https://grabs-and-boxcorers-field-manual.github.io/pre-survey-preparations)**                                                |
+|       _[Pre-survey Checklist](https://grabs-and-boxcorers-field-manual.github.io/pre-survey-preparations#pre-survey-checklist)_                                      |
+|  **[Field Procedures](https://grabs-and-boxcorers-field-manual.github.io/field-procedures)**                                                              |
+|       _[Onboard sample acquisition](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
+|       _[Onboard data processing and storage](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-data-processing-and-storage)_    |
+|  **[Post-Survey Procedures](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures)**                                                  |
+|       _[Data processing](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-processing)_                                      |
+|       _[Data annotation](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-annotation)_                                      |
+|       _[Data curation and quality control](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-curation-and-quality-control)_  |
+|       _[Data release](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-release)_                                            |
+|       _[Data analysis](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-analysis)_                                          |
+|  **[Field Manual Maintenance](https://grabs-and-boxcorers-field-manual.github.io/field-manual-maintenance)**                                              |
+|  **[Acknowledgments](https://grabs-and-boxcorers-field-manual.github.io/acknowledgments)**                                                                |
+|  **[References](https://grabs-and-boxcorers-field-manual.github.io/references)**                                                                          |
+
+
+<a href="#" class="scrollUpButton">Back to top</a>
