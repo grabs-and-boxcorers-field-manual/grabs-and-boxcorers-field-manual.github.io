@@ -15,4 +15,4 @@ page.button1.external_url:
 ![image alt text](images/Grabs.jpg)
 
 Chapter citation:
-Przeslawski R, Berents P, Clark M, Edgar G, Frid C, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2018. Marine sampling field manual for grabs and box corers. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 172-195.
+Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2020. Marine sampling field manual for grabs and box corers. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. </em>Przeslawski R, Foster S (Eds).<em> </em>National Environmental Science Programme (NESP).
