@@ -12,10 +12,7 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/figures/figure_1.png "image_tooltip")
 
 
 Figure 9.1 Images from key steps involved in the use of grabs or box cores for marine monitoring: a) Recording metadata during gear deployment, b) Retrieving a Smith-McIntyre grab, c) Transferring sample for sedimentological analysis from grab to storage bag, d) Elutriating sediment over a sieve, e) Preserving a bucket of infaunal samples in ethanol, f) Sorting cumaceans under the microscope from elutriated infaunal samples.
@@ -40,10 +37,7 @@ Figure 9.1 Images from key steps involved in the use of grabs or box cores for m
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/figures/figure_2.png "image_tooltip")
 
 
 Figure 9.2 Workflow for onboard sample acquisition and processing from grabs and box cores.
@@ -915,11 +909,7 @@ The following description will assist a visual and tactile assessment:
 c) Assign a Simplified Folk Textural Class to the sample, based on the estimated mud, sand, and gravel proportions (e.g. Figure 9.3, Table 9.2).
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/figures/figure_3.png "image_tooltip")
 
 
 Figure 9.3: Simplified Folk Textural classes
@@ -981,7 +971,7 @@ Table 9.2: Simplified Modified Folk Textural classes for visual classification o
 </table>
 
 
-d) Assign a colour to the <span style="text-decoration:underline;">whole </span>sample using a Munsell colour chart, noting the Munsell code (colour, value, chroma) <span style="text-decoration:underline;">and </span>colour name _[Recommended]_.
+d) Assign a colour to the <span style="text-decoration:underline;">whole </span>sample using a Munsell colour chart, noting the Munsell code (colour, value, chroma) <span style="text-decoration:underline;">and </span>colour name [Recommended].
 
 e) Estimate whether the sample is comprised of dominantly (>50%) carbonate material, non-carbonate (i.e. lithics), or mixed.
 
