@@ -66,7 +66,7 @@ Chlorophyll-_a _is the principal pigment in plants and is a biomass indicator of
 6. Use a spectrophotometer to measure absorbance at 665 and 750 nm.
 7. Acidify extract with 2 drops of 0.1 N HCl, mix and rest for 60 s.
 8. Measure absorbance again at 665 and 750 nm.
-9. Calculate the concentrations of corrected chl-_a_ and phaeophytin using the equations of Lorenzen (1967).
+9. Calculate the concentrations of corrected chl - _a_ and phaeophytin using the equations of Lorenzen (1967).
 
 
 ##### Redox
