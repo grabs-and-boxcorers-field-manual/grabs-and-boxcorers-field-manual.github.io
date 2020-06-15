@@ -46,6 +46,438 @@ Figure 9.2 Workflow for onboard sample acquisition and processing from grabs and
 
 Table 9.3 Sample field datasheet to record metadata from each grab or corer deployment. Waterproof paper and pen/pencil is required.
 
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th colspan="4">Gear on bottom</th>
+    <th>Wire out (length, angle)1</th>
+    <th>Recovery (%)</th>
+    <th>Sample weight</th>
+    <th>Photo (Y/N)</th>
+    <th colspan="3">Sample taken (Y/N), Sample ID number</th>
+    <th colspan="3">Qualitative data and other comments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Gear ID</td>
+    <td>Date</td>
+    <td>Long</td>
+    <td>Lat</td>
+    <td>Depth</td>
+    <td>Time</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Bio</td>
+    <td>Sed</td>
+    <td>Geoch</td>
+    <td>Biology</td>
+    <td>Sed<br>(Folk, Munsell, carbonate/lithic, other materials)</td>
+    <td>Geoch<br>(anoxic sediments)</td>
+  </tr>
+  <tr>
+    <td>GR01</td>
+    <td>1/1/17</td>
+    <td>152.444</td>
+    <td>-24.675</td>
+    <td>20 m</td>
+    <td>19:28</td>
+    <td>25 m, 0°</td>
+    <td>75</td>
+    <td>7 kg</td>
+    <td>Y</td>
+    <td>Y<br>1001</td>
+    <td>Y<br>1002</td>
+    <td>Y<br>1003</td>
+    <td>Large worm preserved separately</td>
+    <td>sG (Sandy Gravel)<br>7.5 YR 7/6 (red yellow)<br>Carbonate dominant<br>Trace of volcanic rocks</td>
+    <td>Patches of sediment are black with sulfur smell</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 
 <sup>1 </sup>Recording the length and angle of wire payed out during seafloor contact is required if the survey is in deep water with no USBL; otherwise this is just recommended<br>
 
@@ -88,6 +520,37 @@ c) Assign a Simplified Folk Textural Class to the sample, based on the estimated
 Figure 9.3: Simplified Folk Textural classes
 
 Table 9.2: Simplified Modified Folk Textural classes for visual classification of seabed sediments
+<table>
+<thead>
+  <tr>
+    <th>% Gravel</th>
+    <th>Sand : Mud Ratio</th>
+    <th>Simplified Folk Class</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&gt;80</td>
+    <td>&gt;9:1</td>
+    <td>Coarse sediment</td>
+  </tr>
+  <tr>
+    <td>&gt;5, &lt;80</td>
+    <td>&lt;9:1</td>
+    <td>Mixed sediments</td>
+  </tr>
+  <tr>
+    <td>&lt;5</td>
+    <td>&gt;4:1</td>
+    <td>Sand and muddy sand</td>
+  </tr>
+  <tr>
+    <td>&lt;5</td>
+    <td>&lt;4:1</td>
+    <td>Mud and sandy mud</td>
+  </tr>
+</tbody>
+</table>
 
 
 d) Assign a colour to the <span style="text-decoration:underline;">whole </span>sample using a Munsell colour chart, noting the Munsell code (colour, value, chroma) <span style="text-decoration:underline;">and </span>colour name [Recommended].
@@ -156,7 +619,7 @@ To convert to redox potential and ensure quantitative outputs for comparability 
 3. Rinse the grab or corer thoroughly to avoid contaminating the next sample collected.
 4. Elutriate[^1] the sample by running moderately flowing seawater into the elutriating bin and gently agitating the sediment to release light-bodied animals into the water. The water should flow from the bin through an outlet under which the sieve is placed (next step). To avoid damage to animals during elutriation, avoid directing water from the deck hose at the sieve, separate fragile visible animals, and remove rocks and shells (these can be saved as part of the heavy fraction if desired, Step 12). Elutriation should be performed until water runs clear, ideally the same amount of time among all sample sites. For coarse-grained sediments, this may only be ~5 minutes, but for deep-sea ooze this may be far longer due to stickiness of the sediment which makes elutriating a challenge.  
 
-    Fine sediments may require two steps here: semi-elutriation which often retains clods of fine sediment on the sieve, followed by puddling in which a full sieve is immersed in seawater and vertically agitated to further remove fine sediment (CEFAS 2002). This 2-stage option also accounts for shelled molluscs and other heavy-bodied organisms often missed by elutriation. Regardless, the main goal in this step is to ensure that all animals are separated intact from as much of the sediment as possible. 
+   Fine sediments may require two steps here: semi-elutriation which often retains clods of fine sediment on the sieve, followed by puddling in which a full sieve is immersed in seawater and vertically agitated to further remove fine sediment (CEFAS 2002). This 2-stage option also accounts for shelled molluscs and other heavy-bodied organisms often missed by elutriation. Regardless, the main goal in this step is to ensure that all animals are separated intact from as much of the sediment as possible. 
 
 
 
