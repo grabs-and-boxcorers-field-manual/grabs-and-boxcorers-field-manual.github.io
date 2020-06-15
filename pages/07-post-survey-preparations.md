@@ -8,9 +8,6 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-# Post-Survey Procedures
-
-
 ## Sample curation and submission for analysis
 
 
