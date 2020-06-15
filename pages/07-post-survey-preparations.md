@@ -52,9 +52,9 @@ Total organic matter content of marine sediments is determined by Loss on Igniti
 The water content is the difference between the wet and dry sediment weights and is expressed as a percentage of the initial sediment weight. The total organic matter content is obtained as the difference between the dry and combusted sediment weights and is expressed as a percentage of the sediment dry weight.   
 
 
-##### Chlorophyll-a & phaeophytin 
+##### Chlorophyll - _a_ & phaeophytin 
 
-Chlorophyll-_a _is the principal pigment in plants and is a biomass indicator of aquatic micro-algae which support food webs in the sea, and phaeopigments (e.g. phaeophytin) are the degraded non-photosynthetic products of chlorophyll (e.g. Bax et al. 2001). The ratio between them indicates the “freshness” of the organic matter. Note that samples can be freeze-dried first and this may increase extraction efficiency but also increases the risk of chlorophyll degradation over time. For the purposes of this field manual, we recommend using wet material; this will ensure comparability among datasets. The general steps for chl-_a _analysis are:
+Chlorophyll - _a _is the principal pigment in plants and is a biomass indicator of aquatic micro-algae which support food webs in the sea, and phaeopigments (e.g. phaeophytin) are the degraded non-photosynthetic products of chlorophyll (e.g. Bax et al. 2001). The ratio between them indicates the “freshness” of the organic matter. Note that samples can be freeze-dried first and this may increase extraction efficiency but also increases the risk of chlorophyll degradation over time. For the purposes of this field manual, we recommend using wet material; this will ensure comparability among datasets. The general steps for chl-_a _analysis are:
 
 
 
@@ -159,7 +159,7 @@ Submit all geochemical sample metadata and analysis results to GA including:
 
 *   Reduced sediments (Y/N);
 *   Total organic matter content (%); and
-*   Chl _a_ (ug g<sup>-1</sup> dry sediment).
+*   Chl - _a_ (ug g<sup>-1</sup> dry sediment).
 
 The easiest way to do this is to add two columns to Table 9.3 for LOI and chl-_a _data and submit this to [marine@ga.gov.au](mailto:marine@ga.gov.au).
 
