@@ -29,11 +29,8 @@ Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes
 |       _[Onboard sample acquisition](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
 |       _[Onboard data processing and storage](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-data-processing-and-storage)_    |
 |  **[Post-Survey Procedures](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures)**                                                  |
-|       _[Data processing](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-processing)_                                      |
-|       _[Data annotation](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-annotation)_                                      |
-|       _[Data curation and quality control](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-curation-and-quality-control)_  |
-|       _[Data release](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-release)_                                            |
-|       _[Data analysis](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-analysis)_                                          |
+|       _[Sample curation and submission for analysis](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#sample-curation-and-submission-for-analysis)_                                      |
+|       _[Data Release](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-release)_                                      |
 |  **[Field Manual Maintenance](https://grabs-and-boxcorers-field-manual.github.io/field-manual-maintenance)**                                              |
 |  **[Acknowledgments](https://grabs-and-boxcorers-field-manual.github.io/acknowledgments)**                                                                |
 |  **[References](https://grabs-and-boxcorers-field-manual.github.io/references)**                                                                          |
