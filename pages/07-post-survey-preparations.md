@@ -6,7 +6,7 @@ excerpt: "<br>"
 image:
   feature: /banners/scope_banner.JPG
 ---
-{% include toc.html class="toc-left" h_min=1 h_max=2 %}
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 # Post-Survey Procedures
 
@@ -71,7 +71,7 @@ Chlorophyll-_a _is the principal pigment in plants and is a biomass indicator of
 
 ##### Redox
 
-Redox_ _measurements are provided onboard with a probe and there are thus no post-survey procedures are required, other than to calculate redox potential and QC data. 
+Redox measurements are provided onboard with a probe and there are thus no post-survey procedures are required, other than to calculate redox potential and QC data. 
 
 
 ### Biology
