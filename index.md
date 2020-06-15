@@ -27,12 +27,12 @@ Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes
 |       _[Pre-survey Checklist](https://grabs-and-boxcorers-field-manual.github.io/pre-survey-preparations#pre-survey-checklist)_                                      |
 |  **[Field Procedures](https://grabs-and-boxcorers-field-manual.github.io/field-procedures)**                                                              |
 |       _[Onboard sample acquisition](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
-|       _[Onboard data processing and storage](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-data-processing-and-storage)_    |
+|       _[Onboard sample processing & storage](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-processing--storage)_    |
 |  **[Post-Survey Procedures](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures)**                                                  |
 |       _[Sample curation and submission for analysis](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#sample-curation-and-submission-for-analysis)_                                      |
 |       _[Data Release](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-release)_                                      |
 |  **[Field Manual Maintenance](https://grabs-and-boxcorers-field-manual.github.io/field-manual-maintenance)**                                              |
-|  **[Acknowledgments](https://grabs-and-boxcorers-field-manual.github.io/acknowledgments)**                                                                |
+|  **[Acknowledgments](https://grabs-and-boxcorers-field-manual.github.io/acknowledgements)**                                                                |
 |  **[References](https://grabs-and-boxcorers-field-manual.github.io/references)**                                                                          |
 
 
