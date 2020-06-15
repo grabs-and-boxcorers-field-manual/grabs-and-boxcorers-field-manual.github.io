@@ -128,16 +128,10 @@ Figure 9.4 A brief description of taxa that can be challenging to identify but a
    <td><strong><em>Ostracods (crustaceans). </em></strong>Ostracods can be mistaken for bivalves, but they are small shrimp-like animals encased in two shells. You can often see their legs protruding from the shell.
    </td>
   </tr>
-  <tr>
-   <td colspan="2" >
+</table>
 
 
 <img src="images/figures/figure_4.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
 
 
 
