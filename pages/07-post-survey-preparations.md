@@ -6,7 +6,7 @@ excerpt: "<br>"
 image:
   feature: /banners/scope_banner.JPG
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=3 %}
+{% include toc.html class="toc-left" h_min=1 h_max=2 %}
 
 # Post-Survey Procedures
 
@@ -50,9 +50,6 @@ Total organic matter content of marine sediments is determined by Loss on Igniti
 7. Weigh crucible and combusted sediment.
 
 The water content is the difference between the wet and dry sediment weights and is expressed as a percentage of the initial sediment weight. The total organic matter content is obtained as the difference between the dry and combusted sediment weights and is expressed as a percentage of the sediment dry weight.   
-
-
-##### 
 
 
 ##### Chlorophyll-a & phaeophytin 
@@ -134,10 +131,8 @@ Figure 9.4 A brief description of taxa that can be challenging to identify but a
   <tr>
    <td colspan="2" >
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/figure_4.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -187,7 +182,7 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 
 
 
-1. Create a metadata record describing the data collection. Provide as much detail as possible on the collection/deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). This should include sampling locations and dates, equipment used, level of sorting applied, etc. All collection/deployment information must be QC-d before inclusion. \
+1. Create a metadata record describing the data collection. Provide as much detail as possible on the collection/deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). This should include sampling locations and dates, equipment used, level of sorting applied, etc. All collection/deployment information must be QC-d before inclusion. 
 
 2. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has gone through the QC process. This can be done in one of two ways:
 *   If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
@@ -195,13 +190,13 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 
     This step provides immediate documentation of the methods and location of the collection of biological material. This stage may also include links to field reports or data sheets.
 
-3. Complete the species identifications and associated abundance for targeted groups identified. This can take quite some time, depending on sample size and available resources. It is not unusual for taxonomic identifications to lag years behind survey completion, but this should not delay publication of initial metadata and deployment information. Care must be taken to ensure consistent nomenclature is used and documented for undescribed or unnamed species (e.g. defined Operational Taxonomic Units, OTUs). Ideally catalogues of OTUs are established such that subsequent surveys may use consistent OTU classification, thereby ensuring comparability of data between surveys. \
+3. Complete the species identifications and associated abundance for targeted groups identified. This can take quite some time, depending on sample size and available resources. It is not unusual for taxonomic identifications to lag years behind survey completion, but this should not delay publication of initial metadata and deployment information. Care must be taken to ensure consistent nomenclature is used and documented for undescribed or unnamed species (e.g. defined Operational Taxonomic Units, OTUs). Ideally catalogues of OTUs are established such that subsequent surveys may use consistent OTU classification, thereby ensuring comparability of data between surveys.
 
-4. QC the data. This includes checking for spelling errors, missing data, consistent nomenclature and use of OTUs, and confirmation that outliers are not data entry errors (e.g. 100 individuals really were collected, not just 10). Current taxonomic nomenclature can be checked using the World Register of Marine Species (WoRMS) ‘match taxa’ tool ([https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match)). This process provides accepted scientific name, the scientific authority and full taxonomic breakdown for each taxon. \
+4. QC the data. This includes checking for spelling errors, missing data, consistent nomenclature and use of OTUs, and confirmation that outliers are not data entry errors (e.g. 100 individuals really were collected, not just 10). Current taxonomic nomenclature can be checked using the World Register of Marine Species (WoRMS) ‘match taxa’ tool ([https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match)). This process provides accepted scientific name, the scientific authority and full taxonomic breakdown for each taxon. 
 
-5. Technical specialists should also consider whether the data has to be rationalised. This process is often required to remove potential ‘ecological noise’ which may adversely affect the statistical analysis of the data. Examples include non-target taxa (e.g. purely pelagic biota such as chaetognaths or ctenophores; or terrestrial biota such as dipterans in grab samples) or juveniles. Newly-settled juveniles are often ephemeral, with high abundance and post-settlement mortality rates, and are therefore not generally representative of prevailing benthic faunal communities (OSPAR Commission 2004).  \
+5. Technical specialists should also consider whether the data has to be rationalised. This process is often required to remove potential ‘ecological noise’ which may adversely affect the statistical analysis of the data. Examples include non-target taxa (e.g. purely pelagic biota such as chaetognaths or ctenophores; or terrestrial biota such as dipterans in grab samples) or juveniles. Newly-settled juveniles are often ephemeral, with high abundance and post-settlement mortality rates, and are therefore not generally representative of prevailing benthic faunal communities (OSPAR Commission 2004).
 
-6. Additional analysis of data may be required, including classifying trophic levels of taxa, and classifying or characterising habitat types for each sample (e.g. National Intertidal and Subtidal Benthic classification in Mount et al 2007; Combined Biotope Classification Scheme in Edmunds and Flynn 2018).  \
+6. Additional analysis of data may be required, including classifying trophic levels of taxa, and classifying or characterising habitat types for each sample (e.g. National Intertidal and Subtidal Benthic classification in Mount et al 2007; Combined Biotope Classification Scheme in Edmunds and Flynn 2018).
 
 7. Attach or link the full data spreadsheet (including absences and abundances/biomass) to the metadata record previously created and published to the AODN. This will ensure public discoverability and accessibility of the complete data, including absences.
 
