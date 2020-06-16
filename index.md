@@ -4,7 +4,7 @@ permalink: /
 title: "Grabs and Box Corers"
 excerpt: "<br>"
 image:
-  feature: /banners/field-procedures_banner.jpg
+  feature: /banners/banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
