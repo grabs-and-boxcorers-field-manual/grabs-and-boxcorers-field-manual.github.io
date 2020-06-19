@@ -10,7 +10,7 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Rachel Przeslawski](mailto:rachel.przeslawski@ga.gov.au), Penny Berents, Malcolm Clark, Sabine Dittmann, Graham Edgar, Chris Frid, Garnet Hooper, Lauren Hughes, Tim Ingleton, David Kennedy, Scott Nichol, Jodie Smith
+[Rachel Przeslawski](mailto:rachel.przeslawski@ga.gov.au), Penny Berents, Malcolm Clark, Sabine Dittmann, Graham Edgar, Chris Frid, Garnet Hooper, Lauren Hughes, Tim Ingleton, David Kennedy, Scott Nichol & Jodie Smith
 
 ![image alt text](images/Grabs.jpg)
 
