@@ -17,7 +17,7 @@ image:
 |-------------------------------------------------------------------------------------------------------------------------------------------|
 |  **[Platform Description](https://grabs-and-boxcorers-field-manual.github.io/platform-description)**                                                      |
 |  **[Scope](https://grabs-and-boxcorers-field-manual.github.io/scope)**    |
-|  **[Grabs and Box corers in Marine Monitoring](https://grabs-and-boxcorers-field-manual.github.io/grabs-and-boxcorers-in-marine-monitoring)**                                            |
+|  **[Grabs and Box Corers in Marine Monitoring](https://grabs-and-boxcorers-field-manual.github.io/grabs-and-boxcorers-in-marine-monitoring)**                                            |
 |  **[Equipment](https://grabs-and-boxcorers-field-manual.github.io/equipment)**      |
 |  **[Pre-survey Preparations](https://grabs-and-boxcorers-field-manual.github.io/pre-survey-preparations)**                                                |
 |       _[Pre-survey checklist](https://grabs-and-boxcorers-field-manual.github.io/pre-survey-preparations#pre-survey-checklist)_                                      |
