@@ -24,7 +24,7 @@ image:
 |  **[Field Procedures](https://grabs-and-boxcorers-field-manual.github.io/field-procedures)**                                                              |
 |       _[Onboard sample acquisition](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
 |       _[Onboard sample processing & storage](https://grabs-and-boxcorers-field-manual.github.io/field-procedures#onboard-sample-processing--storage)_    |
-|  **[Post-Survey Procedures](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures)**                                                  |
+|  **[Post-survey Procedures](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures)**                                                  |
 |       _[Sample curation and submission for analysis](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#sample-curation-and-submission-for-analysis)_                                      |
 |       _[Data release](https://grabs-and-boxcorers-field-manual.github.io/post-survey-procedures#data-release)_                                      |
 |  **[Field Manual Maintenance](https://grabs-and-boxcorers-field-manual.github.io/field-manual-maintenance)**                                              |
