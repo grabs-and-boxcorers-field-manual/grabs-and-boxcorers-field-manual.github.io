@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /pre-survey-preparations
-title: "Pre-Survey Preparations"
+title: "Pre-survey Preparations"
 excerpt: "<br>"
 image:
   feature: /banners/banner.jpg
@@ -42,6 +42,7 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
 
 
 <table>
+<thead>
   <tr>
    <td>
    </td>
@@ -50,6 +51,8 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
    <td>Description/comments
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>□
    </td>
@@ -146,6 +149,7 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
    <td>
    </td>
   </tr>
+  </tbody>
 </table>
 
 
