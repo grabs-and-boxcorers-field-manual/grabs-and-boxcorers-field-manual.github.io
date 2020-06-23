@@ -46,9 +46,9 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
   <tr>
    <td>
    </td>
-   <td>Task
+   <td><strong>Task</strong>
    </td>
-   <td>Description/comments
+   <td><strong>Description/comments</strong>
    </td>
   </tr>
   </thead>
