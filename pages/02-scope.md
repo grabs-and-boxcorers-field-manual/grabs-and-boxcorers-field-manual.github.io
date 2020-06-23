@@ -21,20 +21,23 @@ Although larger grabs and box corers can sample larger macrofauna and megafauna,
 
 For the purposes of this manual, macrofauna refer to organisms larger than 500 µm. There are varying definitions of faunal size classifications, and these differences seem to reflect the environment under consideration. For example, deep-sea researchers often consider macrofauna to be anything larger than 300 µm (e.g. De Smet et al 2017) due to the prevalence of small body sizes in the deep-sea, while researchers in coastal or shelf waters are more likely to consider macrofauna as > 500 -1000 µm (e.g. Gray and Elliot 2009).  
 
-Table 9.1 List of potential measurements from grabs and corers, including whether they are included in this field manual. 
+**Table 9.1:** List of potential measurements from grabs and corers, including whether they are included in this field manual. 
 
 
 <table>
+<thead>
   <tr>
    <td>
    </td>
-   <td>Parameter
+   <td><strong>Parameter</strong>
    </td>
-   <td>Description
+   <td><strong>Description</strong>
    </td>
-   <td>Included in field manual
+   <td><strong>Included in field manual</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td rowspan="6" >Sedimentology
    </td>
@@ -177,4 +180,5 @@ Table 9.1 List of potential measurements from grabs and corers, including whethe
    <td>N
    </td>
   </tr>
+  </tbody>
 </table>
