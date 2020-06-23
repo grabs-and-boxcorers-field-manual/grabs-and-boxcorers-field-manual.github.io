@@ -15,7 +15,7 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 ![alt_text](images/figures/figure_1.png "image_tooltip")
 
 
-Figure 9.1 Images from key steps involved in the use of grabs or box cores for marine monitoring: a) Recording metadata during gear deployment, b) Retrieving a Smith-McIntyre grab, c) Transferring sample for sedimentological analysis from grab to storage bag, d) Elutriating sediment over a sieve, e) Preserving a bucket of infaunal samples in ethanol, f) Sorting cumaceans under the microscope from elutriated infaunal samples.
+**Figure 9.1:** Images from key steps involved in the use of grabs or box cores for marine monitoring: a) Recording metadata during gear deployment, b) Retrieving a Smith-McIntyre grab, c) Transferring sample for sedimentological analysis from grab to storage bag, d) Elutriating sediment over a sieve, e) Preserving a bucket of infaunal samples in ethanol, f) Sorting cumaceans under the microscope from elutriated infaunal samples.
 
 
 ## Onboard sample acquisition 
@@ -40,11 +40,11 @@ Figure 9.1 Images from key steps involved in the use of grabs or box cores for m
 ![alt_text](images/figures/figure_2.png "image_tooltip")
 
 
-Figure 9.2 Workflow for onboard sample acquisition and processing from grabs and box cores.
+**Figure 9.2:** Workflow for onboard sample acquisition and processing from grabs and box cores.
 
 
 
-Table 9.3 Sample field datasheet to record metadata from each grab or corer deployment. Waterproof paper and pen/pencil is required.
+**Table 9.3:** Sample field datasheet to record metadata from each grab or corer deployment. Waterproof paper and pen/pencil is required.
 
 <table>
 <thead>
@@ -517,9 +517,9 @@ c) Assign a Simplified Folk Textural Class to the sample, based on the estimated
 ![alt_text](images/figures/figure_3.png "image_tooltip")
 
 
-Figure 9.3: Simplified Folk Textural classes
+**Figure 9.3:** Simplified Folk Textural classes
 
-Table 9.2: Simplified Modified Folk Textural classes for visual classification of seabed sediments
+**Table 9.2:** Simplified Modified Folk Textural classes for visual classification of seabed sediments
 <table>
 <thead>
   <tr>

@@ -16,14 +16,17 @@ The version control for Chapter 9 (field manual for grabs and box corers) is bel
 
 
 <table>
+<thead>
   <tr>
-   <td>Version Number
+   <td><strong>Version Number</strong>
    </td>
-   <td>Description
+   <td><strong>Description</strong>
    </td>
-   <td>Date
+   <td><strong>Date</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>0
    </td>
@@ -48,4 +51,5 @@ The version control for Chapter 9 (field manual for grabs and box corers) is bel
    <td>May 2020
    </td>
   </tr>
+ </tbody>
 </table>

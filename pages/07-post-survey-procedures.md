@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /post-survey-procedures
-title: "Post-Survey Procedures"
+title: "Post-survey Procedures"
 excerpt: "<br>"
 image:
   feature: /banners/banner.jpg
@@ -79,8 +79,6 @@ Redox measurements are provided onboard with a probe and there are thus no post-
 2. In order to test for potential bias due to differences in sorting efficiency among people, randomly selected samples should be re-sorted by a different person. Removal of 95% or more of the organisms during the sorting process is acceptable; otherwise, re-sorting may be necessary (Simpson et al. 2005) _[recommended when multiple people are involved in Step 1]_
 3. Within each sorted phylum, identify organisms to a taxonomic resolution that enables data production in a timely manner, and then count individuals. Identifications can be done by the organisation that collected the samples, museum taxonomists, geneticists, or external private consultants. Care must be taken to ensure consistent nomenclature is used for undescribed or unnamed species (e.g. defined operational taxonomic units, OTUs).
 
-Figure 9.4 A brief description of taxa that can be challenging to identify but are often encountered when sorting organisms from elutriated sediment samples.
-
 
 <table>
   <tr>
@@ -130,7 +128,7 @@ Figure 9.4 A brief description of taxa that can be challenging to identify but a
 
 <img src="images/figures/figure_4.png" width="" alt="alt_text" title="image_tooltip">
 
-
+**Figure 9.4:** A brief description of taxa that can be challenging to identify but are often encountered when sorting organisms from elutriated sediment samples.
 
 4. Lodge all specimens in an internationally recognised specimen collection (e.g. museum) for curation and public accessibility _[Recommended]_.
 5. If all specimens are unable to be lodged at a museum due to lack of resources or the need for destructive analyses (e.g. biochemical extractions), then a voucher collection should be produced (i.e. at least one animal per OTU). This voucher collection can be held temporarily by the agency undertaking the survey if there are other surveys planned in the region to aide in subsequent identification. Ultimately, this voucher collection should be lodged in an internationally recognised specimen collection (e.g. museum).
