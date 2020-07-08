@@ -58,8 +58,7 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
     <th colspan="3">Sample taken (Y/N), Sample ID number</th>
     <th colspan="3">Qualitative data and other comments</th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td>Gear ID</td>
     <td>Date</td>
@@ -78,6 +77,8 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
     <td>Sed<br>(Folk, Munsell, carbonate/lithic, other materials)</td>
     <td>Geoch<br>(anoxic sediments)</td>
   </tr>
+  </thead>
+<tbody>
   <tr>
     <td>GR01</td>
     <td>1/1/17</td>
