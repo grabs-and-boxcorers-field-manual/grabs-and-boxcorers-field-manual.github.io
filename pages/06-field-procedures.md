@@ -24,10 +24,10 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 1. Use multibeam data or underwater imagery to confirm appropriate areas to sample (soft vs hard substrate) and to identify the most appropriate equipment based on fine or coarse sediments. 
 2. Use USBL System to ensure accurate positioning (Schlacher et al. 2007, Williams et al. 2015) _[recommended, especially in deep waters]_
 3. Document the specifications of all sampling gear to be used. This includes gear size and configuration (dimensions, weight) and deployment needs (wire length estimated, USBL methods), as well as sampling surface area, maximum volume, and maximum digging depth. This information must be included in survey metadata.
-4. Record all metadata related to each sample station, specified in Table 9.3. 
+4. Record all metadata related to each sample station, specified in Table 9.2. 
 5. Deploy the grab or corer according to gear-specific protocols. Record GPS position, date, time and water depth when the sampler reaches the sea bed.
 6. When the equipment is lifted from the water, follow gear-specific protocols for its safe return to deck and access to the sample. Special care may be needed in rough conditions to ensure the sample is not spilled or in situations when the grab or corer has not been triggered.
-7. Assess the success of deployment and record the proportion of grab or corer filled (Table 9.3).
+7. Assess the success of deployment and record the proportion of grab or corer filled (Table 9.2).
 8. If there is significant damage to gear, gear closure failure, sample spillage or scant sample return, the sample should not be used in quantitative comparisons with other deployments. If possible, repeat a deployment at that location. Scant sample is defined as being at least 50% empty.
 9. Record general observations, particularly conspicuous biota, general sediment description, and evidence of anoxic or reduced sediments (i.e. black/green colour, sulphur smell).
 10. Photograph the entire sample with the station identification placard. If taking photos of individual biota from the sample (must be done after step 10), photograph them on the station identification placard. It may be worth considering including a basic scale bar on station identification placards for this purpose.
@@ -43,7 +43,7 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 
 
 
-**Table 9.3:** Sample field datasheet to record metadata from each grab or corer deployment. Waterproof paper and pen/pencil is required.
+**Table 9.2:** Sample field datasheet to record metadata from each grab or corer deployment. Waterproof paper and pen/pencil is required.
 
 <table>
 <thead>
@@ -489,7 +489,7 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 13. For most equipment, the sedimentology and geochemical sub-samples can be accessed while the sample remains in the grab or corer, thus minimising disturbance. The biological sub-sample can be processed after these sub-samples have been removed. 
 14. When processing biological samples, pass any excess water from the sampling gear over the sieve; for a box core this will likely need to be done with a siphon. Process the material retained on the sieve, refer to biological steps below.
 15. Undertake geochemical, sedimentological, and biological processing steps below for each sediment sample collected.
-16. After samples are processed, transcribe the metadata from Table 9.3 into digital format. This can be done in the evening or during other shipboard operations, but it should be done onboard because it provides an immediate back-up, allows for correction of obvious errors, and facilitates timely metadata release.
+16. After samples are processed, transcribe the metadata from Table 9.2 into digital format. This can be done in the evening or during other shipboard operations, but it should be done onboard because it provides an immediate back-up, allows for correction of obvious errors, and facilitates timely metadata release.
 17. During demobilisation, ensure samples and drums are properly closed and implement shipping according to decision made during pre-survey planning.
 
 
@@ -511,7 +511,7 @@ The following description will assist a visual and tactile assessment:
 *   _<span style="text-decoration:underline;">Sandy mud</span>_ – Overall fine texture, slightly gritty to feel that can form a thin ribbon when rolled between fingers. Will form a cast when moist that can bear robust handling without breaking.
 *   _<span style="text-decoration:underline;">Mud</span>_ – Uniformly fine texture, sticky and with very slight gritty feel if silt is present. Will form a long flexible ribbon when rolled.
 
-c) Assign a Simplified Folk Textural Class to the sample, based on the estimated mud, sand, and gravel proportions (e.g. Figure 9.3, Table 9.2).
+c) Assign a Simplified Folk Textural Class to the sample, based on the estimated mud, sand, and gravel proportions (e.g. Figure 9.3, Table 9.3).
 
 
 ![alt_text](images/figures/figure_3.png "image_tooltip")
@@ -519,7 +519,7 @@ c) Assign a Simplified Folk Textural Class to the sample, based on the estimated
 
 **Figure 9.3:** Simplified Folk Textural classes
 
-**Table 9.2:** Simplified Modified Folk Textural classes for visual classification of seabed sediments
+**Table 9.3:** Simplified Modified Folk Textural classes for visual classification of seabed sediments
 <table>
 <thead>
   <tr>
@@ -559,7 +559,7 @@ e) Estimate whether the sample is comprised of dominantly (>50%) carbonate mater
 
 f) Note the presence of other materials, such as whole shells, articulated bivalves, shell fragments, corals, wood or lithics and record the relative abundance as: Trace (just noticeable); Few (noticeable); Common (very noticeable); Abundant (little else noticeable).
 
-Record the above properties with all available metadata (Table 9.3), as in the example below:
+Record the above properties with all available metadata (Table 9.2), as in the example below:
 
 
 
@@ -575,7 +575,7 @@ h) Double bag the sample. Label clearly on the surface of the bags, as well as o
 
 ### Biogeochemistry (chlorophyll-a, organic matter content, redox)
 
-These geochemical analyses are based on the assumption that the sediment surface is relatively intact and the surface sediments can be identified. If this is not the case, it is recommended only organic matter content is assessed, with information on sediment mixing recorded in the comments section of the metadata sheets (Table 9.3). The following procedures are to be used to obtain geochemical samples for quantification of commonly analysed metrics related to chlorophyll-_a_ (Danovaro 2010), organic matter content (Heiri et al. 2001, Wang et al. 2011), and redox (Danovaro 2010, Edgar et al. 2010). For all biogeochemical samples, record the geochemical samples taken on a station form with all available metadata (Table 9.3). 
+These geochemical analyses are based on the assumption that the sediment surface is relatively intact and the surface sediments can be identified. If this is not the case, it is recommended only organic matter content is assessed, with information on sediment mixing recorded in the comments section of the metadata sheets (Table 9.2). The following procedures are to be used to obtain geochemical samples for quantification of commonly analysed metrics related to chlorophyll-_a_ (Danovaro 2010), organic matter content (Heiri et al. 2001, Wang et al. 2011), and redox (Danovaro 2010, Edgar et al. 2010). For all biogeochemical samples, record the geochemical samples taken on a station form with all available metadata (Table 9.2). 
 
 
 ##### Chlorophyll-_a _& phaeophytin
@@ -615,7 +615,7 @@ To convert to redox potential and ensure quantitative outputs for comparability 
 
 
 1. After supernatant water has been passed through a sieve and sedimentology and geochemistry steps have been performed (&lt; 5 tablespoons of sediment removed, see above), transfer the remaining sample from grab or corer to an elutriating bin. If additional survey objectives require data on sediment depth (see Pre-Survey Preparations), each sediment layer should be in a separate nally bin. 
-2. Weigh the whole sample using an onboard scale. Record in metadata sheet (Table 9.3).
+2. Weigh the whole sample using an onboard scale. Record in metadata sheet (Table 9.2).
 3. Rinse the grab or corer thoroughly to avoid contaminating the next sample collected.
 4. Elutriate[^1] the sample by running moderately flowing seawater into the elutriating bin and gently agitating the sediment to release light-bodied animals into the water. The water should flow from the bin through an outlet under which the sieve is placed (next step). To avoid damage to animals during elutriation, avoid directing water from the deck hose at the sieve, separate fragile visible animals, and remove rocks and shells (these can be saved as part of the heavy fraction if desired, Step 12). Elutriation should be performed until water runs clear, ideally the same amount of time among all sample sites. For coarse-grained sediments, this may only be ~5 minutes, but for deep-sea ooze this may be far longer due to stickiness of the sediment which makes elutriating a challenge.  
 
