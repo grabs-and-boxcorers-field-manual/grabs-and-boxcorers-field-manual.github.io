@@ -185,7 +185,7 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 
 5. Technical specialists should also consider whether the data has to be rationalised. This process is often required to remove potential ‘ecological noise’ which may adversely affect the statistical analysis of the data. Examples include non-target taxa (e.g. purely pelagic biota such as chaetognaths or ctenophores; or terrestrial biota such as dipterans in grab samples) or juveniles. Newly-settled juveniles are often ephemeral, with high abundance and post-settlement mortality rates, and are therefore not generally representative of prevailing benthic faunal communities (OSPAR Commission 2004).
 
-6. Additional analysis of data may be required, including classifying trophic levels of taxa, and classifying or characterising habitat types for each sample (e.g. National Intertidal and Subtidal Benthic classification in Mount et al 2007; Combined Biotope Classification Scheme in Edmunds and Flynn 2018).
+6. Additional analysis of data may be required, including classifying trophic levels of taxa, and classifying or characterising habitat types for each sample (e.g. National Intertidal and Subtidal Benthic classification in Mount et al. 2007; Combined Biotope Classification Scheme in Edmunds and Flynn 2018).
 
 7. Attach or link the full data spreadsheet (including absences and abundances/biomass) to the metadata record previously created and published to the AODN. This will ensure public discoverability and accessibility of the complete data, including absences.
 

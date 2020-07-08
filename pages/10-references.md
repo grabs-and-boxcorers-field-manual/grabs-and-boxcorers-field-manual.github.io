@@ -104,11 +104,12 @@ image:
   Nichol, S., F. Howard, J. Kool, M. Stowar, P. Bouchet, L. Radke, J. Siwabessy, R. Przeslawski, K. Picard, B. Alvarez de Glasby, J. Colquhoun, T. Letessier, and A. Heyward. 2013. Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) Biodiversity Survey: GA0339/SOL5650 Post-Survey Report. Record 2013/38, Geoscience Australia, Canberra.
 
 
-  Olsgard, F., Somerfield, P.J., Carr, M.R., 1998. Relationships between taxonomic resolution, macrobenthic community patterns and disturbance. Marine Ecology Progress Series 172: 25-36.
+  Olsgard, F., Somerfield, P.J., Carr, M.R. 1998. Relationships between taxonomic resolution, macrobenthic community patterns and disturbance. Marine Ecology Progress Series 172: 25-36.
 
 
   OSPAR Commission, 2004. OSPAR guidelines for monitoring the environmental impact of offshore oil and gas activities. Meeting of the OSPAR Offshore Industries Committee (OIC), 15 – 19 March, 2004.
-
+  
+Pennington, D., L.O. Veale, R.G. Hartnoll. 1998. Re-analysis of an historical benthic data set from the Irish Sea. Estuarine, Coastal and Shelf Science 46: 769-776.
 
   Przeslawski, R., B. Alvarez, J. Kool, T. Bridge, M. J. Caley, and S. Nichol. 2015. Implications of sponge biodiversity patterns for the management of a marine reserve in northern Australia. PLOS ONE.
 
@@ -151,6 +152,7 @@ image:
 
   Somerfield, P.J. and R.M. Warwick. 2013. Macrofauna Techniques. Pages 253-284 in A. Eleftheriou, A., editor. Methods for the Study of Marine Benthos, 4th Edition. John Wiley and Sons: West Sussex.
 
+Souza, G.B.G. and F. Barros. 2015. Analysis of sampling methods of estuarine benthic macrofaunal assemblages: sampling gear, mesh size, and taxonomic resolution. Hydrobiologia 743: 157-174.
 
   Spencer, M., S. N. R. Birchenough, N. Mieszkowska, L. A. Robinson, S. D. Simpson, M. T. Burrows, E. Capasso, P. Cleall-Harding, J. Crummy, C. Duck, D. Eloire, M. Frost, A. J. Hall, S. J. Hawkins, D. G. Johns, D. W. Sims, T. J. Smyth, and C. L. J. Frid. 2011. Temporal change in UK marine communities: trends or regime shifts? Marine Ecology 32:10-24.
 

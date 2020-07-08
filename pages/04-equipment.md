@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-Equipment must be appropriately set-up to ensure as much consistency as possible among surveys and to facilitate gear replacement if necessary. The overarching goal of appropriately choosing and setting up equipment is to sample as much of the sediment as possible with minimal disruption, within the limitations of the given equipment.  It is recommended that a survey include at least two gear types to sample sediments, one targeted for finer sediment (muds) and the other targeted for sands and coarser sediments (gravel). Researchers should ensure appropriate statistical tests are performed to test for potential confounding factor of gear type on biological variables, particularly regarding penetration depth and substrate type.
+Equipment must be appropriately set-up to ensure as much consistency as possible among surveys and to facilitate gear replacement if necessary. The overarching goal of appropriately choosing and setting up equipment is to sample as much of the sediment as possible with minimal disruption, within the limitations of the given equipment.  It is recommended that a survey include at least two gear types to sample sediments, one targeted for finer sediment (muds) and the other targeted for sands and coarser sediments (gravel). Researchers should ensure appropriate statistical tests are performed to test for potential confounding factor of gear type on biological variables (e.g. Pennington et al. 1998, Souza and Barros 2015), particularly regarding penetration depth and substrate type.
 
 The key components for a grab include the following, all of which should be documented:
 
