@@ -47,8 +47,6 @@ A visual summary of some the key steps to follow when deploying benthic sleds or
 
 ![alt_text](images/grabs-metadata.JPG "image_tooltip")
 
-<sup>1 </sup>Recording the length and angle of wire payed out during seafloor contact is required if the survey is in deep water with no USBL; otherwise this is just recommended<br>
-
 
 ## Onboard sample processing & storage
 
