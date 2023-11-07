@@ -7,11 +7,11 @@ image:
   feature: /banners/banner.jpg
 ---
 
-<div align="center"><p style="font-size:20px;"><a href="mailto:rachel.przeslawski@ga.gov.au">Rachel Przeslawski</a>, Penny Berents, Malcolm Clark, Sabine Dittmann, Graham Edgar, Chris Frid, Garnet Hooper, Lauren Hughes, Tim Ingleton, David Kennedy, Scott Nichol & Jodie Smith</p></div><br>
+<div align="center"><p style="font-size:20px;"><a href="mailto:rachel.przeslawski@dpi.nsw.gov.au">Rachel Przeslawski</a>, Penny Berents, Malcolm Clark, Sabine Dittmann, Graham Edgar, Chris Frid, Garnet Hooper, Lauren Hughes, Tim Ingleton, David Kennedy, Scott Nichol & Jodie Smith</p></div><br>
 <img src="images/Grabs.jpg" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2020. Marine sampling field manual for grabs and box corers. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2. </em>Przeslawski R, Foster S (Eds).<em> </em>National Environmental Science Programme (NESP).
+<strong>Chapter citation:</strong><br>Przeslawski R, Berents P, Clark M, Dittmann S, Edgar G, Frid C, Hooper G, Hughes L, Ingleton T, Kennedy D, Nichol S, Smith J. 2023. Marine sampling field manual for grabs and box corers. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2.1. </em>Przeslawski R, Foster S (Eds).<em> </em>National Environmental Science Programme (NESP).
 
 | Chapter Contents                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
