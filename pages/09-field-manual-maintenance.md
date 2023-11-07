@@ -51,5 +51,13 @@ The version control for Chapter 9 (field manual for grabs and box corers) is bel
    <td>May 2020
    </td>
   </tr>
+    <tr>
+   <td>2.1
+   </td>
+   <td>Minor updates including new references, equipment list added 
+   </td>
+   <td>December 2023
+   </td>
+  </tr>
  </tbody>
 </table>
