@@ -145,21 +145,28 @@ These geochemical analyses are based on the assumption that the sediment surface
 ##### Chlorophyll-_a _& phaeophytin
 
 a) Using a spatula or spoon, scrape the surface sediment to a maximum depth of 2 cm. Collect ~ 100 g wet sediment (1-2 tablespoons). 
+
 b) Remove any visible living or soft-bodied organisms for biological steps below, but retain shell gravel.
+
 c) Place a sub-sample of wet sediment into a 50 mL plastic vial for chl-_a_ analysis. Chl-_a_ degrades in sunlight so this step should be performed quickly and out of direct sunlight if possible. 
+
 d) Wrap in foil and store frozen at -20°C in the dark until post-survey analysis of chl-_a_. Ensure sufficient head-space in the vial or bag to allow for the expansion of sample when frozen.  Note that analysis should be performed within 4 weeks of collection, although use of ultra-cold freezers extends storage times.
 
 
 ##### Organic matter content
 
 e) Place another sub-sample of wet sediment into a 50 mL plastic vial or small zip-lock bag for post-survey analysis of total organic carbon. 
+
 f) Homogenise this sample, and store frozen at -20°C until analysis  of organic matter content, generally within 3 months of collection. If liquid nitrogen is available, samples should be snap frozen and stored in a dewar following appropriate protocols.
 
 ##### Redox
 
 g) Use a suitable redox probe consisting of a portable pH/Eh meter, redox electrode (with shaft >15 cm long, preferably as thin as possible, with Platinum indicator electrode) and a reference electrode (double junction silver/silver chloride).
+
 h) Use Zobell’s solution as a reference to calibrate the redox electrode before each redox profile, recording the redox measurement of the solution. The solution (0.003M potassium ferricyanide, 0.003M potassium ferrocyanide, and 0.1M potassium chloride) has an Eh value of +430 mV at 25°C.
+
 i) Carefully insert the redox electrode into the intact sediment surface as soon as possible after collection at depth intervals of 1 cm from the surface to 10-20 cm (depending on depth of sediment). 
+
 j) Record the Eh readings (in mV) when the meter readings stabilise (for a minimum of 5 seconds) at each depth.
 
 This method provides a rough indication of the levels of oxygen in the substrate. This information is crucial to assess the interstitial conditions of the sediment as affected by burrowing organisms or anthropogenic factors. Measured in millivolt, often reported as Eh (hydrogen standard electrode) the redox potential has a low-definition significance because of the multi-factors interacting in producing it, and as such is semi-quantitative. Generally positive values are associated with well-oxygenated sediments, whereas highly negative values (&lt;-200 mV) are typical of suboxic or anoxic conditions (Danovaro 2010).
@@ -170,8 +177,11 @@ To convert to redox potential and ensure quantitative outputs for comparability 
 ### Biology (infauna and macrofauna)
 
 a) After supernatant water has been passed through a sieve and sedimentology and geochemistry steps have been performed (&lt; 5 tablespoons of sediment removed, see above), transfer the remaining sample from the grab or corer to an elutriating bin. If additional survey objectives require data on sediment depth (see Pre-Survey Preparations), each sediment layer should be processed in a separate bin. 
+
 b) Weigh the whole sample using an onboard scale. Record in metadata sheet (Table 9.3).
+
 c) Rinse the grab or corer thoroughly to avoid contaminating the next sample collected.
+
 d) Elutriate[^1] the sample by running moderately flowing seawater into the elutriating bin and gently agitating the sediment to release light-bodied animals into the water. The water should flow from the bin through an outlet under which the sieve is placed (next step). To avoid damage to animals during elutriation, avoid directing water from the deck hose at the sieve, separate fragile visible animals, and remove rocks and shells (these can be saved as part of the heavy fraction if desired, Step 12). Elutriation should be performed until water runs clear, ideally the same amount of time among all sample sites. For coarse-grained sediments, this may only be ~5 minutes, but for deep-sea ooze this may be far longer due to stickiness of the sediment which makes elutriating a challenge.  
   Fine sediments may require two steps here: semi-elutriation which often retains clods of fine sediment on the sieve, followed by puddling in which a full sieve is immersed in seawater and vertically agitated to further remove fine sediment (CEFAS 2002). This 2-stage option also accounts for shelled molluscs and other heavy-bodied organisms often missed by elutriation. Regardless, the main goal in this step is to ensure that all animals are separated intact from as much of the sediment as possible. 
   An alternative to elutriation is stacked sieving. This can provide immediate data related to invertebrate size distribution and biomass (Edgar 1990), although sieving is not ideal in coarse-grained sediments where a large fraction is retained on the sieve and subsequently require much time to sort organisms from the sediment. If a researcher elects this option, stack larger sieves (e.g. 1000 µm) on top of smaller ones (e.g. 500 µm), add small amounts of sample to the top sieve, and gently flush through with seawater. Skip to Step 12.
@@ -179,12 +189,19 @@ d) Elutriate[^1] the sample by running moderately flowing seawater into the elut
 
 
 e) Retain macrofauna by allowing water to flow onto a 500 µm sieve. This size was chosen, as it has already been used in AMPs (Nichol et al. 2013, Przeslawski et al. 2013, Przeslawski et al. 2018) as well as successful international monitoring of soft sediment communities (Frid 2011). It is a compromise between the 1 mm recommended by other protocols (Rumohr 1999) and the time and effort needed to process specimens using 300 µm or smaller. If individual survey objectives require a finer mesh size (e.g. 100 µm or 300 µm) or comparison with datasets from larger mesh size (e.g. 1000 µm), layer the sieves and process samples separately so that the recommended standard of 500 µm is still followed and data are comparable.
+
 f) Sort the heavy fraction by hand, remove any live animals that do not float during elutriation (e.g. molluscs, hermit crabs, animals attached to rocks), and place them in the sample container. 
+
 g) Material retained on the sieve should be flushed off using seawater in a squirt bottle directed from the underside of the sieve into a funnel and sample container. It is important to minimize the amount of water used in this step to ensure adequate preservative concentration. If a large amount of seawater is used for flushing, the sample can be sieved and flushed again. Alternatively, a puddling bin can be used to concentrate the sample into one small area of the sieve for flushing into the sample container (CEFAS 2002). 
+
 h) Preserve the elutriated and heavy fraction specimens in a sample container according to the methods decided in ‘Pre-survey Planning’. If there is a large volume of material, use multiple sample containers to ensure enough preservative in each container. Consider museum requirements for sample preservation, and also see Rees (2009) and Schiaparelli et al. (2016) for a comprehensive description of fixatives and preservatives used for marine invertebrates. Larger organisms may be preserved separately (e.g. polychaetes may be relaxed in MgCl<sub>2</sub> and fixed in formalin).
+
 i) Place a solvent-hardy label in each sample container with sample and station number, date, location and vessel/collector. This information is essential for quality control in processing and archiving of specimens. It is not sufficient to label only the outside of the container, as this can easily rub off. See Box 15.6 in Schiaparelli et al. (2016) for suitable label characteristics.
+
 j) Place the sample container in a large sealable container (i.e. lidded drum) double-lined with a durable plastic bag with other samples preserved using the same chemicals (e.g. ethanol). Label the drum with survey details and the type of chemical fixative/preservative inside. Since samples from the same grab may end up in different drums due to different preservatives, it is imperative to have a good record-keeping system.
+
 k) After placing samples within the inner bag of the drum, back fill between the bags with an appropriate amount of spill kit (e.g. vermiculite or absorbent kitty litter). In this way the contained specimens are compliant with handling (triple bagged) for road transport of Dangerous Goods. _[Recommended]_
+
 l) Store large drums onboard in an approved storage area for hazardous chemicals.
 
 
