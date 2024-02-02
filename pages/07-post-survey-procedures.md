@@ -116,6 +116,8 @@ Redox measurements are provided onboard with a probe and thus no post-survey pro
 
 
 4. Lodge all specimens in an internationally recognised specimen collection (e.g. museum) for curation and public accessibility _[Recommended]_.
+
+
 5. If all specimens are unable to be lodged at a museum due to lack of resources or the need for destructive analyses (e.g. biochemical extractions), then a voucher collection should be produced (i.e. at least one animal per OTU). This voucher collection can be held temporarily by the agency undertaking the survey if there are other surveys planned in the region to aid in subsequent identification. Ultimately, this voucher collection should be lodged in an internationally recognised specimen collection (e.g. museum).
 
 ## Data Release
