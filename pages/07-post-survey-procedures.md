@@ -78,46 +78,38 @@ Redox measurements are provided onboard with a probe and thus no post-survey pro
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-4zh0{border-color:#ffffff;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">a)</span></th>
     <th class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Scaphopods (molluscs).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> These are curved shells with a larger and smaller hole on each end.</span></th>
-    <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">b)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Aplacophorans (molluscs).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> These are often confused with worms but are actually molluscs covered with spicules that can make them look furry.</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">c)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Foraminiferans (protists).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Forams with tests (i.e. shells) can be mistaken for gastropod shells and can be particularly common in deep-sea sediments and beach sand. This field manual does not target forams so their inclusion in sample processing is not required (image from Wikimedia).</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">d)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Crinoids (echinoderms).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> The small animals or their dropped arms can superficially resemble polychaete worms. </span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">e)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Hermit crabs (crustaceans)</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">. These can be mistakenly sorted as gastropods because the crab has retreated into its shell and is barely visible.</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">f)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Ophiuroid arms (echinoderms)</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">. These can often be confused with polychaetes, but you’ll never see a head. There is no need to save ophiuroid arms unless the central disk is present.</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">g)</span></td>
     <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Ostracods (crustaceans). </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ostracods can be mistaken for bivalves, but they are small shrimp-like animals encased in two shells. You can often see their legs protruding from the shell.</span></td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
