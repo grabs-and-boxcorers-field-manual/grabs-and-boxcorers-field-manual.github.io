@@ -10,7 +10,7 @@ image:
 
 A visual summary of some of the key steps to follow when deploying grabs or box corers is shown in Figure 9.1.
 
-![alt_text](images/figures/figure_1.png "image_tooltip")
+![alt_text](images/figures/figure_3.png "image_tooltip")
 
 **Figure 9.1:** Images from key steps involved in the use of grabs or box cores for marine monitoring: a) Recording metadata during gear deployment, b) Retrieving a Smith-McIntyre grab, c) Transferring sample for sedimentological analysis from grab to storage bag, d) Elutriating sediment over a sieve, e) Preserving a bucket of infaunal samples in ethanol, f) Sorting cumaceans under the microscope from elutriated infaunal samples.
 
@@ -30,7 +30,8 @@ A visual summary of some of the key steps to follow when deploying grabs or box 
 11. As soon as practical, begin onboard processing of the sample for sedimentology, biology, and biogeochemistry (next sections, Figure 9.2).
 12. After all samples have been removed (next sections, Figure 9.2), thoroughly wash gear to prevent cross-contamination. Set up gear for next deployment or safely secure for long transits or if operations have ceased for the day.
 
-![alt_text](images/figures/figure_2.png "image_tooltip")
+
+![alt_text](images/figures/figure_1.png "image_tooltip")
 
 **Figure 9.2:** Workflow for onboard sample acquisition and processing from grabs and box cores.
 
@@ -67,8 +68,8 @@ The following description will assist a visual and tactile assessment:
 c) Assign a Simplified Folk Textural Class to the sample, based on the estimated mud, sand, and gravel proportions (e.g. Figure 9.3, Table 9.3).
 
 
-![alt_text](images/figures/figure_3.png "image_tooltip")
 
+![alt_text](images/figures/figure_2.png "image_tooltip")
 
 **Figure 9.3:** Simplified Folk Textural classes
 
