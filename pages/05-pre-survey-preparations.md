@@ -48,16 +48,20 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9911{background-color:#CFE2F3;font-size:15px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u9lj{background-color:#CFE2F3;color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-amsw{background-color:#CFE2F3;color:#FFF;font-size:large;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vu3d{background-color:#4F81BD;text-align:left;vertical-align:top}
 .tg .tg-0bw9{background-color:#4F81BD;color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-mc1r{background-color:#CFE2F3;color:#313130;font-size:large;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-adxi{background-color:#CFE2F3;color:#313130;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 614px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1054px">
 <colgroup>
-<col style="width: 39px">
+<col style="width: 25px">
 <col style="width: 425px">
-<col style="width: 150px">
+<col style="width: 604px">
 </colgroup>
 <thead>
   <tr>
@@ -68,64 +72,69 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Identify onboard chief scientist .</span></td>
+    <td class="tg-amsw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-u9lj"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Identify onboard chief scientist .</span></td>
     <td class="tg-5jfb"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Confirm sampling design meets necessary criteria (e.g. replicates).</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Confirm sampling design meets necessary criteria (e.g. replicates).</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Identify most appropriate grab(s) or corer(s) to be used.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Identify most appropriate grab(s) or corer(s) to be used.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Engage taxonomists, curators and contractors. Cost activities.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Engage taxonomists, curators and contractors. Cost activities.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Determine storage and preservation methods. </span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Determine storage and preservation methods. </span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Complete WH&amp;S risk assessment.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Complete WH&amp;S risk assessment.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Decide method(s) for locating gear during deployment.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Decide method(s) for locating gear during deployment.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtain appropriate permits.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtain appropriate permits.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Document gear specification and establish winch protocols.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Document gear specification and establish winch protocols.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Determine if specialists needed for deployment.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Determine if specialists needed for deployment.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Design workspaces and workflows.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Design workspaces and workflows.</span></td>
+    <td class="tg-adxi"></td>
   </tr>
   <tr>
-    <td class="tg-9911"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
-    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Organise shipment of samples.</span></td>
-    <td class="tg-5jfb"></td>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Organise shipment of samples.</span></td>
+    <td class="tg-adxi"></td>
+  </tr>
+  <tr>
+    <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
+    <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Organise shipment of samples.</span></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
