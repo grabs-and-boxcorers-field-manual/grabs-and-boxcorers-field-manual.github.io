@@ -45,8 +45,6 @@ The water content is the difference between the wet and dry sediment weights and
 
 Chlorophyll-_a _is the principal pigment in plants and is a biomass indicator of aquatic micro-algae which support food webs in the sea, and phaeopigments (e.g. phaeophytin) are the degraded non-photosynthetic products of chlorophyll (e.g. Bax et al. 2001). The ratio between them indicates the “freshness” of the organic matter. Note that samples can be freeze-dried first and this may increase extraction efficiency but also increases the risk of chlorophyll degradation over time. For the purposes of this field manual, we recommend using wet material; this will ensure comparability among datasets. The general steps for chl-_a _analysis are:
 
-
-
 1. Place approx. 5 g wet sediment into centrifuge tube.
 2. Add 10 mL acetone (90% saturated with MgCO<sub>3</sub>).
 3. Mix rigorously (with glass rod or vortex mixer).
@@ -59,13 +57,10 @@ Chlorophyll-_a _is the principal pigment in plants and is a biomass indicator of
 
 
 ##### Redox
-
-Redox_ _measurements are provided onboard with a probe and thus no post-survey procedures are required, other than to calculate redox potential and QC data. 
+Redox measurements are provided onboard with a probe and thus no post-survey procedures are required, other than to calculate redox potential and QC data. 
 
 
 ### Biology
-
-
 
 1. All animals from a given grab or box core should be sorted into separate small containers based on phylum or class to facilitate taxonomic identifications (arthropod, annelid, mollusc, echinoderm, other). This can be done onboard if time permits, but consideration must be given to working under a microscope on a moving vessel. Sorting can usually be done by a non-expert, with only a few groups posing potential challenges (Figure 9.4). Containers should be filled with ethanol or formalin (as per Pre-Survey Preparations) and labelled appropriately with solvent-proof paper. 
 2. In order to test for potential bias due to differences in sorting efficiency among people, randomly selected samples should be re-sorted by a different person. Removal of 95% or more of the organisms during the sorting process is acceptable; otherwise, re-sorting may be necessary (Simpson et al. 2005) _[recommended when multiple people are involved in Step 1]_
@@ -75,59 +70,65 @@ Redox_ _measurements are provided onboard with a probe and thus no post-survey p
 
 **Figure 9.4:** A brief description of taxa that can be challenging to identify but are often encountered when sorting organisms from elutriated sediment samples.
 
-   <td><strong>a)</strong>
-</p>
-   </td>
-   <td><strong><em>Scaphopods (molluscs).</em></strong> These are curved shells with a larger and smaller hole on each end.
-</p>
-   </td>
-   <td><strong>b)</strong>
-</p>
-   </td>
-   <td><strong><em>Aplacophorans (molluscs).</em></strong> These are often confused with worms but are actually molluscs covered with spicules that can make them look furry.
-</p>
-   </td>
-   <td><strong>c)</strong>
-</p>
-   </td>
-   <td><strong><em>Foraminiferans (protists).</em></strong> Forams with tests (i.e. shells) can be mistaken for gastropod shells and can be particularly common in deep-sea sediments and beach sand. This field manual does not target forams so their inclusion in sample processing is not required (image from Wikimedia).
-</p>
-   </td>
-   <td><strong>d)</strong>
-</p>
-   </td>
-   <td><strong><em>Crinoids (echinoderms).</em></strong> The small animals or their dropped arms can superficially resemble polychaete worms. 
-</p>
-   </td>
-   <td><strong>e)</strong>
-</p>
-   </td>
-   <td><strong><em>Hermit crabs (crustaceans)</em></strong>. These can be mistakenly sorted as gastropods because the crab has retreated into its shell and is barely visible.
-</p>
-   </td>
-   <td><strong>f)</strong>
-</p>
-   </td>
-   <td><strong><em>Ophiuroid arms (echinoderms)</em></strong>. These can often be confused with polychaetes, but you’ll never see a head. There is no need to save ophiuroid arms unless the central disk is present.
-</p>
-   </td>
-   <td><strong>g)</strong>
-</p>
-   </td>
-   <td><strong><em>Ostracods (crustaceans). </em></strong>Ostracods can be mistaken for bivalves, but they are small shrimp-like animals encased in two shells. You can often see their legs protruding from the shell.
-</p>
-   </td>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4zh0{border-color:#ffffff;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">a)</span></th>
+    <th class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Scaphopods (molluscs).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> These are curved shells with a larger and smaller hole on each end.</span></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">b)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Aplacophorans (molluscs).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> These are often confused with worms but are actually molluscs covered with spicules that can make them look furry.</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">c)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Foraminiferans (protists).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Forams with tests (i.e. shells) can be mistaken for gastropod shells and can be particularly common in deep-sea sediments and beach sand. This field manual does not target forams so their inclusion in sample processing is not required (image from Wikimedia).</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">d)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Crinoids (echinoderms).</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> The small animals or their dropped arms can superficially resemble polychaete worms. </span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">e)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Hermit crabs (crustaceans)</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">. These can be mistakenly sorted as gastropods because the crab has retreated into its shell and is barely visible.</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">f)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Ophiuroid arms (echinoderms)</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">. These can often be confused with polychaetes, but you’ll never see a head. There is no need to save ophiuroid arms unless the central disk is present.</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-km2t"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">g)</span></td>
+    <td class="tg-4zh0"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#000;background-color:transparent">Ostracods (crustaceans). </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ostracods can be mistaken for bivalves, but they are small shrimp-like animals encased in two shells. You can often see their legs protruding from the shell.</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 
 4. Lodge all specimens in an internationally recognised specimen collection (e.g. museum) for curation and public accessibility _[Recommended]_.
 5. If all specimens are unable to be lodged at a museum due to lack of resources or the need for destructive analyses (e.g. biochemical extractions), then a voucher collection should be produced (i.e. at least one animal per OTU). This voucher collection can be held temporarily by the agency undertaking the survey if there are other surveys planned in the region to aid in subsequent identification. Ultimately, this voucher collection should be lodged in an internationally recognised specimen collection (e.g. museum).
 
-
 ## Data Release
 
 Produce a technical or post-survey report documenting the purpose of the survey, survey design, sampling locations, sampling equipment specifications, and any challenges or limitations encountered (sample template [here](https://marine-sampling-field-manual.github.io/files/Appendix%20B_Post-survey%20report%20template.docx)). Provide links to this report in all associated metadata _[Recommended]._
-
 
 ### Sedimentology
 
@@ -135,19 +136,15 @@ For samples submitted to GA for sedimentological analysis, sedimentology data wi
 
 For samples from which sedimentological analysis were done elsewhere, please submit the data to [marine@ga.gov.au](mailto:marine@ga.gov.au), along with required metadata. Data may also be published separately (e.g. Carvalho et al 2022), but submitting to the national Marine Sediments collection ensures the data is discoverable and searchable through the [AusSeabed data portal](https://portal.ga.gov.au/persona/marine).
 
-
 ### Biogeochemistry
 
 Submit all geochemical sample metadata and analysis results to GA including:
-
-
 
 * Reduced sediments (Y/N);
 * Total organic matter content (%); and
 * Chl _a_ (ug g<sup>-1</sup> dry sediment).
 
 The easiest way to do this is to add two columns to Table 9.3 for LOI and chl-_a _data and submit this to [marine@ga.gov.au](mailto:marine@ga.gov.au).
-
 
 ### Biology
 
