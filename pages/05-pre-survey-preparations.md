@@ -55,7 +55,7 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
 .tg .tg-0bw9{background-color:#4F81BD;color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-mc1r{background-color:#CFE2F3;color:#313130;font-size:large;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-adxi{background-color:#CFE2F3;color:#313130;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-4561{background-color:#cfe2f3;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1054px">
 <colgroup>
@@ -134,7 +134,7 @@ Similarly, <span style="text-decoration:underline;">contractors or collaborators
   <tr>
     <td class="tg-mc1r"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">□</span></td>
     <td class="tg-adxi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Organise shipment of samples.</span></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-4561"></td>
   </tr>
 </tbody>
 </table>
