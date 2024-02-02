@@ -8,12 +8,9 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual was updated in 2020 as Version 2. Updates reflect user feedback and new developments. There is currently no long-term plan or support for future updates. See Chapter 1 (Introduction to field manual package) for further details. 
-
- 
+In accordance with the universal field manual maintenance protocol described in [Chapter 1](https://introduction-field-manual.github.io/) of the Field Manual package, this manual was updated in 2020 as Version 2 and in 2024 as Version 3.Updates reflect user feedback and new developments. There is currently no long-term plan or support for future updates. See Chapter 1 (Introduction to field manual package) for further details. 
 
 The version control for Chapter 9 (field manual for grabs and box corers) is below:
-
 
 <table>
 <thead>
