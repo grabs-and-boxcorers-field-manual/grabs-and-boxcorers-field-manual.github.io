@@ -152,7 +152,7 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 
 
 
-1. Create a metadata record describing the data collection. Provide as much detail as possible on the collection/deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). This should include sampling locations and dates, equipment used, level of sorting applied, etc. All collection/deployment information must be QC-d before inclusion.
+1. Create a metadata record describing the data collection. Include information about the collection methods used or cite this field manual and other relevant methods. Provide as much detail as possible on the collection/deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). This should include sampling locations and dates, equipment used, level of sorting applied, etc. All collection/deployment information must be QC-d before inclusion.
 2. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has gone through the QC process. This can be done in one of two ways:
 * If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
 * Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that this tool requires user registration, but this is free and immediate. As of January 2024, this tool is under maintenance, and metadata submissions should be sent to [info@aodn.org.au](mailto:info@aodn.org.au) until it is again active. 
@@ -175,6 +175,6 @@ In the meantime, the steps listed below will ensure appropriate and timely relea
 * The data is tested for any temporal or spatial outliers.
 * Any observed parameters (biotic and abiotic) are matched where possible to vocabularies maintained by AODN and BODC.
 * Metadata is authored from any existing metadata or publications.
-* Finally the datasets is published via the OBIS Australia data node[ http://ogc-act.csiro.au/ipt/](http://ogc-act.csiro.au/ipt/)
+* Finally the datasets is published via the [OBIS Australia data node](https://www.marine.csiro.au/ipt)
 
     OBISAU has the option to publish the data at the same time directly to GBIF, and it has developed a service to inform ALA that a new dataset is available to be harvested for inclusion into ALA.
