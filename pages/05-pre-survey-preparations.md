@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Partnerships and Engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-partnership-and-engagement) in Chapter 1 for further details.
+<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Leadership and Collaboration](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
 
 <span style="text-decoration:underline;">Identify a chief scientist</span> who will be responsible for making onboard decisions related to samples, particularly regarding prioritisation of samples during onboard processing. This will be particularly helpful during busy periods with multiple back-to-back deployments. For 24-hour operations, a second-in-charge must also be identified to cover alternating shifts.
 
