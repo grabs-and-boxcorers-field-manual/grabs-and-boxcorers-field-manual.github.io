@@ -145,3 +145,6 @@ For the purposes of this manual, macrofauna refer to organisms larger than 500 Â
   </tr>
 </tbody>
 </table>
+
+
+<sup>1 </sup>See [Microplastics Field Manual](https://microplastics-field-manual.github.io/)
