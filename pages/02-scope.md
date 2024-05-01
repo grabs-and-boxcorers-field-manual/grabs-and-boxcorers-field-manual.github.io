@@ -141,7 +141,7 @@ For the purposes of this manual, macrofauna refer to organisms larger than 500 Â
     <td class="tg-pspk"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Other</span></td>
     <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plastics</span></td>
     <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Presence, type, and size of nano- or microplastics</span></td>
-    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">N</span>1</td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">N</span><sup>1</sup></td>
   </tr>
 </tbody>
 </table>
